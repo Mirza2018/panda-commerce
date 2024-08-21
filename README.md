@@ -51,7 +51,7 @@ npm run dev
 ## **Project Structure**
 
 ```plaintext
-doc-house/
+panda-commerce/
 ├── iamge/        
 └── README.me
 ├── index.html
