@@ -1,4 +1,4 @@
-# **Ronginbunonr**
+# **Panda Eommerce**
 
 ![Logo](https://i.ibb.co/4Phssk0/Screenshot-2024-08-22-010252.png) 
 
@@ -37,14 +37,14 @@ This is a customize necklace orderWebsite
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-https://github.com/Mirza2018/panda-commerce.git
-cd panda-commerce
+https://github.com/Mirza2018/panda-eommerce
+cd panda-eommerce
 npm install
 ```
 
 ### **Running the App**
 ```bash
-cd panda-commerce
+cd panda-eommerce
 npm run dev
 ```
 
